@@ -9,4 +9,3 @@ class FzfTab < Formula
     prefix.install Dir["*"]
   end
 end
-
